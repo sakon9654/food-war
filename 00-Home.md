@@ -14,8 +14,9 @@ tags: [food-war, navigation]
 - **[[Chapters/Volume-01/Chapter-Index|สารบัญเล่ม 1]]** → [[Chapters/Volume-01/Chapter-11|อ่านตอนล่าสุด 11]]
 - **[[Story/Timeline|เส้นเวลา]]** → ตรวจว่าเกิดอะไรขึ้นแล้ว
 - **[[Story/Plot-Threads|ทะเบียนปม]]** → ติดตามเบาะแสที่ยังไม่เฉลย
+- **[[Story/Knowledge-Matrix|ใครรู้อะไร]]** → ป้องกันตัวละครรู้สิ่งที่ผู้อ่านเห็นในฉากลับ
 - **[[Characters/Character-Index|ตัวละคร]]** · **[[Locations/Location-Index|สถานที่]]** · **[[Systems/Power-Index|พลังและข้อจำกัด]]**
-- **[[Story/New-World-Food-Journal|วัตถุดิบและสูตรอาหาร]]**
+- **[[Story/Food-Register|ทะเบียนวัตถุดิบและสถานะปลอดภัย]]** · [[Story/New-World-Food-Journal|สมุดวัตถุดิบเดิม]]
 
 ## เอกสารหลัก
 | ประเภท | เอกสาร | สถานะ |
@@ -25,6 +26,9 @@ tags: [food-war, navigation]
 | โครงเปิดเรื่อง | [[Story/Opening-Arc]] | แกนหลัก + ตารางตอนเป็นข้อเสนอเก่า |
 | มติและแผนอนาคต | [[Story/Future-Arc-Plan]] | PLANNED — อย่าปะปนกับสิ่งที่เกิดขึ้นแล้ว |
 | เวิร์กโฟลว์ ChatGPT ↔ GitHub ↔ Obsidian | [[Workflow/ChatGPT-Obsidian-Workflow]] | วิธีทำงาน |
+| จุดเริ่มต้นให้ AI อ่านทุกครั้ง | [[Workflow/AI-Session-Brief]] | AI HANDOFF |
+| มติสำคัญและรองรับหลายเล่ม | [[Workflow/Decision-Log]] · [[Workflow/Series-Roadmap]] | PROCESS |
+| โน้ตตอนล่าสุด | [[Notes/Chapter-11-Continuity]] | PUBLISHED / NOT YET APPROVED |
 | แม่แบบบันทึก | [[Templates/Chapter-Notes-Template]] · [[Templates/Character-Template]] | TEMPLATE |
 
 ## ภาพรวมปัจจุบัน
