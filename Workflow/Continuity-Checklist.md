@@ -9,6 +9,7 @@ tags: [workflow, quality]
 ## ก่อนเขียน
 - [ ] อ่านตอนล่าสุดและ [[Story/Timeline]] เพื่อทราบสภาพตัวละคร/วัตถุดิบ/เวลา
 - [ ] ตรวจ [[Story/Plot-Threads]] ไม่สร้างคำตอบให้ปมโดยไม่มีการค้นพบ
+- [ ] ตรวจ [[Story/Knowledge-Matrix]] ว่าใครรู้เรื่องใด และ [[Story/Food-Register]] ว่าวัตถุดิบไหนยังไม่ปลอดภัย
 - [ ] ตรวจว่า PLAN ใน [[Story/Future-Arc-Plan]] ไม่ถูกนับเป็น FACT
 - [ ] กำหนดว่าแต่ละฉากใครรู้/ไม่รู้เรื่องใด
 
@@ -29,7 +30,8 @@ tags: [workflow, quality]
 ## หลัง Commit
 - [ ] เพิ่มตอนใน [[Chapters/Volume-01/Chapter-Index]]
 - [ ] เพิ่มเหตุการณ์จริงใน [[Story/Timeline]]
-- [ ] อัปเดตเงื่อนงำและผู้รู้/ยังไม่รู้ใน [[Story/Plot-Threads]]
+- [ ] อัปเดตเงื่อนงำและผู้รู้/ยังไม่รู้ใน [[Story/Plot-Threads]] และ [[Story/Knowledge-Matrix]]
+- [ ] อัปเดตสถานะอาหารและการตรวจใน [[Story/Food-Register]]
 - [ ] อัปเดตแผล พลัง ความสัมพันธ์ ตัวละคร และสถานที่ที่ขยับ
 - [ ] บันทึกสถานะ Approve แยกจากสถานะ Published
 - [ ] ตรวจ Wikilinks สำคัญไม่ชี้ไปยังไฟล์หาย
