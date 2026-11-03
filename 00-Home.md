@@ -17,6 +17,7 @@ tags: [food-war, navigation]
 - **[[Story/Knowledge-Matrix|ใครรู้อะไร]]** → ป้องกันตัวละครรู้สิ่งที่ผู้อ่านเห็นในฉากลับ
 - **[[Characters/Character-Index|ตัวละคร]]** · **[[Locations/Location-Index|สถานที่]]** · **[[Systems/Power-Index|พลังและข้อจำกัด]]**
 - **[[Story/Food-Register|ทะเบียนวัตถุดิบและสถานะปลอดภัย]]** · [[Story/New-World-Food-Journal|สมุดวัตถุดิบเดิม]]
+- **[[Series/Series-Index|ศูนย์ควบคุมซีรีส์หลายเล่ม]]** → Timeline, Arc, ตัวละคร, World State, Foreshadowing และ Volume Handoff
 
 ## เอกสารหลัก
 | ประเภท | เอกสาร | สถานะ |
@@ -28,6 +29,8 @@ tags: [food-war, navigation]
 | เวิร์กโฟลว์ ChatGPT ↔ GitHub ↔ Obsidian | [[Workflow/ChatGPT-Obsidian-Workflow]] | วิธีทำงาน |
 | จุดเริ่มต้นให้ AI อ่านทุกครั้ง | [[Workflow/AI-Session-Brief]] | AI HANDOFF |
 | มติสำคัญและรองรับหลายเล่ม | [[Workflow/Decision-Log]] · [[Workflow/Series-Roadmap]] | PROCESS |
+| ระบบติดตามข้ามเล่ม | [[Series/Series-Index]] · [[Series/Series-Timeline]] · [[Series/Arc-Tracker]] | FACT / OPEN / PLANNED แยกชัดเจน |
+| สถานะส่งต่อเล่ม 1 | [[Series/Volume-Handoffs/Volume-01-Handoff]] | DRAFT — ยังไม่ปิดเล่ม 1 |
 | โน้ตตอนล่าสุด | [[Notes/Chapter-11-Continuity]] | PUBLISHED / NOT YET APPROVED |
 | แม่แบบบันทึก | [[Templates/Chapter-Notes-Template]] · [[Templates/Character-Template]] | TEMPLATE |
 
@@ -42,5 +45,5 @@ tags: [food-war, navigation]
 
 ## กฎการใช้งาน
 - บันทึก **FACT** เฉพาะจากตอนที่เผยแพร่หรือ Canon ที่อนุมัติ; **PLANNED** สำหรับสิ่งที่ยังไม่เกิด
-- ก่อนเขียนตอนใหม่อ่าน [[Workflow/Continuity-Checklist]] และหลัง Commit อัปเดตดัชนีที่เกี่ยวข้อง
+- ก่อนเขียนตอนใหม่อ่าน [[Workflow/Continuity-Checklist]] และ [[Series/Series-Index]]; หลัง Commit อัปเดตดัชนี/Tracker ที่ได้รับผล
 - ใช้ Wikilink ของ Obsidian; ชื่อไฟล์เป็นภาษาอังกฤษเพื่อเสถียรและใช้ชื่อไทยเป็น alias

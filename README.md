@@ -24,6 +24,8 @@
 | เริ่มงานใน ChatGPT จากบริบทเดียวกัน | [AI Session Brief](Workflow/AI-Session-Brief.md) |
 | ดูวิธีทำงานใน Obsidian/ChatGPT/GitHub | [Workflow](Workflow/ChatGPT-Obsidian-Workflow.md) |
 | ตรวจความต่อเนื่องก่อน Commit | [Continuity Checklist](Workflow/Continuity-Checklist.md) |
+| ดูภาพรวมหลายเล่มและตัวติดตามข้ามเล่ม | [Series Index](Series/Series-Index.md) |
+| ตรวจจุดส่งต่อก่อนเปิดเล่มใหม่ | [Volume 01 Handoff](Series/Volume-Handoffs/Volume-01-Handoff.md) |
 
 ## โครงสร้างโฟลเดอร์
 
@@ -39,6 +41,7 @@ food-war/
 ├── Locations/                # สถานที่ เขตเสี่ยง เส้นทาง
 ├── Systems/                  # ดัชนีพลัง/กลไก
 ├── Story/                    # Timeline, Plot Threads, Knowledge Matrix, Food Register, แผน
+├── Series/                   # Timeline/Arc/Character/World/Foreshadowing และ Handoff ข้ามเล่ม
 ├── Workflow/                 # AI brief, checklist, decision log, series roadmap
 ├── Notes/                    # บันทึกต่อเนื่องรายตอนแยกจากต้นฉบับ
 ├── Templates/                # แม่แบบแฟ้มตัวละครและโน้ตตอน
@@ -59,7 +62,8 @@ food-war/
 - ต้นฉบับที่อนุมัติแล้วไม่แก้เงียบๆ; ใช้ Git History บันทึกทุกครั้งที่ปรับ
 - ใช้ภาษาไทยร่วมสมัย **ไม่ใช้ “ข้า–เจ้า”** และบทสนทนาต้องมีจังหวะเหมือนคนคุยจริง ดู [World Bible](Bible/World-Bible.md)
 - เงื่อนไขพลัง อาหาร การเจ็บป่วย การถนอมอาหาร และการค้นพบพลังต้องเป็นไปตาม [Survival Power Bible](Bible/Survival-Power-Bible.md)
-- หลังเผยแพร่ตอนใหม่ ต้องปรับ [Chapter Index](Chapters/Volume-01/Chapter-Index.md), [Timeline](Story/Timeline.md), [Plot Threads](Story/Plot-Threads.md), แฟ้มตัวละครและสถานที่ที่ได้รับผล
+- หลังเผยแพร่ตอนใหม่ ต้องปรับ [Chapter Index](Chapters/Volume-01/Chapter-Index.md), [Timeline](Story/Timeline.md), [Plot Threads](Story/Plot-Threads.md), แฟ้มตัวละคร/สถานที่ และ [Series Trackers](Series/Series-Index.md) ที่ได้รับผล
+- ก่อนเปิดเล่มใหม่ ต้องปิด [Volume Handoff](Series/Volume-Handoffs/Volume-01-Handoff.md) จาก FACT ที่เผยแพร่จริง; ห้ามนำ PLANNED ไปเขียนเป็นประวัติย้อนหลัง
 - ดู [Decision Log](Workflow/Decision-Log.md) เพื่อไม่เปลี่ยนข้อตกลงเก่าโดยไม่รู้ตัว
 
 ## สำหรับ ChatGPT

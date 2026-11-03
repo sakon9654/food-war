@@ -4,7 +4,7 @@ tags: [workflow, chatgpt, obsidian, github]
 ---
 # วิธีทำงานร่วมกัน: ChatGPT ↔ GitHub ↔ Obsidian
 
-[[00-Home|หน้าหลัก]] · [[Workflow/Continuity-Checklist|รายการตรวจ]] · [[Chapters/Volume-01/Chapter-Index|สารบัญ]]
+[[00-Home|หน้าหลัก]] · [[Workflow/Continuity-Checklist|รายการตรวจ]] · [[Chapters/Volume-01/Chapter-Index|สารบัญ]] · [[Series/Series-Index|ระบบหลายเล่ม]]
 
 ## หน้าที่ของแต่ละระบบ
 - **GitHub (main)** = แหล่งไฟล์จริง (source of truth) เก็บต้นฉบับและ Canon พร้อมประวัติ Commit
@@ -19,13 +19,20 @@ tags: [workflow, chatgpt, obsidian, github]
 5. ถ้าแก้บนคอม ให้ **Commit + Push** ก่อนขอ ChatGPT เขียนต่อ เพื่อไม่ให้เขียนบนข้อมูลเก่า
 
 ## วงรอบการเขียนหนึ่งตอน
-**ก่อนเขียน:** ตรวจ `main` ล่าสุด → อ่าน [[Bible/World-Bible]], [[Bible/Survival-Power-Bible]], [[Story/Timeline]], [[Story/Plot-Threads]], แฟ้มตัวละคร/สถานที่ที่เกี่ยวข้อง และตอนล่าสุด
+**ก่อนเขียน:** ตรวจ `main` ล่าสุด → อ่าน [[Bible/World-Bible]], [[Bible/Survival-Power-Bible]], [[Story/Timeline]], [[Story/Plot-Threads]], [[Series/World-State]], Tracker ข้ามเล่มที่เกี่ยวข้อง, แฟ้มตัวละคร/สถานที่ และตอนล่าสุด
 
 **ระหว่างเขียน:** เขียน `Chapters/Volume-01/Chapter-XX.md`; ใช้ภาษาไทยร่วมสมัย/บทสนทนาธรรมชาติ; ไม่ใส่สปอยล์แผนอนาคตในบทที่ยังไม่ถึง; ให้สิ่งที่ตัวละครรู้สัมพันธ์กับเหตุการณ์ที่เห็น
 
-**หลังเขียน:** ตรวจตาม [[Workflow/Continuity-Checklist]] → Commit ต้นฉบับ → อัปเดต [[Chapters/Volume-01/Chapter-Index]], [[Story/Timeline]], [[Story/Plot-Threads]], ดัชนี/แฟ้มตัวละครและสถานที่ → Commit สรุปต่อเนื่อง หรือ Commit ร่วมกันหากทำเป็นชุดเดียว → แจ้งลิงก์ตอนในแชตแบบสั้น
+**หลังเขียน:** ตรวจตาม [[Workflow/Continuity-Checklist]] → Commit ต้นฉบับ → อัปเดต Chapter Index/Timeline/Plot Threads/แฟ้มที่เกี่ยวข้อง รวมถึง [[Series/Series-Timeline]], [[Series/Arc-Tracker]], [[Series/Character-Progression]], [[Series/World-State]] หรือ [[Series/Foreshadowing-Tracker]] เฉพาะที่ได้รับผล → Commit สรุปต่อเนื่อง หรือ Commit ร่วมกันหากทำเป็นชุดเดียว → แจ้งลิงก์ตอนในแชตแบบสั้น
 
 **เมื่อผู้เขียน Approve:** เปลี่ยน `approved_through` ในดัชนี ห้ามปรับย้อนหลังโดยไม่มีคำสั่ง; หากต้องรีไรต์ให้แยก Commit อธิบายสิ่งที่เปลี่ยน
+
+## เปลี่ยนผ่านระหว่างเล่ม
+
+1. อย่าสร้างผลลัพธ์ของเล่มถัดไปจาก [[Story/Future-Arc-Plan]]; เอกสารนั้นเป็น PLANNED จนมีตอนเผยแพร่รองรับ
+2. เมื่อผู้เขียนยืนยันปิดเล่ม ให้สร้าง/ปิด [[Series/Volume-Handoffs/Volume-01-Handoff|Volume Handoff]] จาก [[Templates/Volume-Handoff-Template]] และตรวจ Tracker ทั้งห้าชุด
+3. ย้ายเฉพาะปม `OPEN` และสถานะ FACT ล่าสุดไปเป็นบริบทเริ่มเล่มใหม่; เก็บ CANON แยกจากความรู้ของตัวละคร
+4. สร้าง `Chapters/Volume-02/Chapter-Index.md` และตอนใหม่หลัง Gate ใน Handoff ผ่านแล้ว ใช้ Wikilink เต็มเพื่อป้องกันชื่อ `Chapter-01` ซ้ำกัน
 
 ## ตัวอย่างคำสั่งให้ ChatGPT ใช้กับ Repo นี้
 - “Approve ตอน 11 แล้วเขียนตอน 12; ตรวจ Timeline/Plot-Threads/Canon ก่อน Commit”

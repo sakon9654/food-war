@@ -11,8 +11,9 @@ tags: [chatgpt, continuity, briefing]
 1. คำสั่งใหม่จากผู้เขียน (หากเปลี่ยน Canon ให้แก้ Bible พร้อมบันทึก)
 2. [[Bible/World-Bible]] + [[Bible/Survival-Power-Bible]]
 3. เนื้อหาเผยแพร่จริงใน `Chapters/` และ [[Story/Timeline]]
-4. [[Story/Opening-Arc]], [[Story/Future-Arc-Plan]] — แผน อาจเปลี่ยนจังหวะตอน
-5. [[Story/Plot-Threads]] / แฟ้มสรุป — เป็นดัชนีช่วยหา ไม่ใช่ข้ออ้างลบข้อเท็จจริงในต้นฉบับ
+4. [[Series/Series-Index]] และ Tracker ข้ามเล่ม — เป็นดัชนีจากหลักฐาน ไม่อยู่เหนือ Chapters/Bible
+5. [[Story/Opening-Arc]], [[Story/Future-Arc-Plan]] — **PLANNED** อาจเปลี่ยนจังหวะตอนและห้ามใช้เป็นหลักฐานว่าเกิดแล้ว
+6. [[Story/Plot-Threads]] / แฟ้มสรุป — เป็นดัชนีช่วยหา ไม่ใช่ข้ออ้างลบข้อเท็จจริงในต้นฉบับ
 
 ## 2. สถานะปัจจุบัน
 - เล่ม 1 เผยแพร่ **ตอน 1–11** / ผู้เขียน Approve ถึง **ตอน 10**.
@@ -20,6 +21,7 @@ tags: [chatgpt, continuity, briefing]
 - [[Characters/Ethan-Wells]] รู้ Resource Sense/Food Appraisal แต่ **ยังไม่มีการค้นพบมิติ**.
 - [[Characters/Karin]] ยังไม่บาดเจ็บสาหัส; ใช้ Nightfall Drive อยู่ตามปกติ.
 - ปมน้ำตะวันตก เขตแดง โกดังตะวันออก พืชฝักเรือนเพาะ และรอยเหนือกำแพงยังเปิดอยู่. ตรวจ [[Story/Knowledge-Matrix]] เพื่อไม่ให้ตัวละครรู้ข้อมูลของผู้อ่าน และ [[Story/Food-Register]] ก่อนปรุงวัตถุดิบใหม่.
+- ภาพรวมข้ามเล่มอยู่ที่ [[Series/Series-Timeline]], [[Series/Arc-Tracker]], [[Series/Character-Progression]], [[Series/World-State]] และ [[Series/Foreshadowing-Tracker]]. [[Series/Volume-Handoffs/Volume-01-Handoff]] ยังเป็น DRAFT และ **ยังไม่ใช่การปิดเล่ม 1**.
 - บทสนทนาใช้ **ไทยร่วมสมัยธรรมชาติ** ไม่ใช้ “ข้า–เจ้า”; ลดจังหวะถามตอบสั้นและถ้อยคำแบบตำรา.
 
 ## 3. ข้อห้ามสำคัญ
@@ -33,8 +35,8 @@ tags: [chatgpt, continuity, briefing]
 ## 4. รูปแบบการทำงานที่ผู้เขียนชอบ
 - หากบอก “Approve ตอนก่อนและเขียนตอนต่อไป” ให้ยืนยันอนุมัติแล้ว **เขียนและ Commit บน main ทันที** เมื่อเครื่องมืออนุญาต
 - เนื้อหาตอนเต็มอยู่ใน GitHub; **แชตตอบลิงก์และสรุปสั้นๆ** ไม่วางนิยายเต็ม
-- อัปเดต [[Chapters/Volume-01/Chapter-Index]], [[Story/Timeline]], [[Story/Plot-Threads]] และแฟ้มที่เกี่ยวข้อง **ในรอบเดียวกัน**
+- อัปเดต [[Chapters/Volume-01/Chapter-Index]], [[Story/Timeline]], [[Story/Plot-Threads]], แฟ้มที่เกี่ยวข้อง และ Series Tracker ที่ได้รับผล **ในรอบเดียวกัน**
 - อธิบายตรงๆ หากยังเขียน/Commit ไม่สำเร็จ; อย่าอ้างว่าเสร็จแล้วหากไม่ได้ตรวจไฟล์
 
 ## 5. ก่อนตอบครั้งต่อไป
-ตรวจ GitHub main ใหม่เสมอ และอ่านไฟล์สำคัญจริง ไม่อ้างอิงสถานะในบรีฟนี้แทนข้อมูลใหม่ หลังเขียนให้แก้เลขตอนที่เผยแพร่/Approve ในบรีฟนี้ด้วย
+ตรวจ GitHub main ใหม่เสมอ และอ่านไฟล์สำคัญจริง ไม่อ้างอิงสถานะในบรีฟนี้แทนข้อมูลใหม่ หลังเขียนให้แก้เลขตอนที่เผยแพร่/Approve ในบรีฟนี้และ `through/as_of` ของ Tracker ที่ได้รับผลด้วย
