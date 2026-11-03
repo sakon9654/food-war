@@ -1,0 +1,9 @@
+# Device-specific Obsidian UI state, caches and secrets
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+.DS_Store
+Thumbs.db
