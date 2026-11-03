@@ -19,6 +19,7 @@ tags: [series, foreshadowing, continuity]
 | F04 | พืชใบหนามีส่วนสีซีด/คล้ำ และเมล็ดพืชฝักเริ่มงอก | [[Chapters/Volume-01/Chapter-08|08]]–[[Chapters/Volume-01/Chapter-11|11]] | OPEN | การงอก/การถูกสัตว์กินไม่ยืนยันความปลอดภัยต่อมนุษย์ |
 | F05 | อีธานกับคารินดูแลกันและไว้ใจกันมากขึ้น | [[Chapters/Volume-01/Chapter-01|01]]–[[Chapters/Volume-01/Chapter-11|11]] | OPEN | เหตุการณ์เปลี่ยนความสัมพันธ์ใน Future Arc Plan ยังเป็น PLANNED |
 | F06 | อีธานมีพลังประเมินทรัพยากร/อาหารภายใต้กฎพลังที่ใหญ่กว่า | [[Chapters/Volume-01/Chapter-01|01]]–[[Chapters/Volume-01/Chapter-11|11]], [[Bible/Survival-Power-Bible]] | OPEN | Provision Dimension เป็น CANON/PLANNED แต่ยังไม่ถูกค้นพบในเรื่อง |
+| F07 | รอยขุด รอยบนรั้ว เศษแข็ง และการเคลื่อนไหวรอบแนวเหนือ/ตะวันตกเพิ่มแรงกดดันต่อหมู่บ้าน | [[Chapters/Volume-01/Chapter-03|03]], [[Chapters/Volume-01/Chapter-08|08]]–[[Chapters/Volume-01/Chapter-11|11]] | OPEN / PLANNED | Payoff ที่อนุมัติคือการโจมตีจนเกรย์ฮอลโลว์พินาศ แต่ชนิด/จำนวน/ลำดับการโจมตียัง OPEN และห้ามให้ตัวละครรู้ล่วงหน้า |
 
 ## เมื่อตอบแทนเบาะแส
 

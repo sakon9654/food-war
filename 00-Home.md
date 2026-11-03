@@ -35,10 +35,11 @@ tags: [food-war, navigation]
 | แม่แบบบันทึก | [[Templates/Chapter-Notes-Template]] · [[Templates/Character-Template]] | TEMPLATE |
 
 ## ภาพรวมปัจจุบัน
-**ตอน 1–10** ผู้เขียน Approve แล้ว · **ตอน 11** เผยแพร่และยังไม่ Approve · **ยังไม่มี** เหตุการณ์ทิ้งอีธานและคาริน / การตื่นขึ้นของมิติ
+**ตอน 1–10** ผู้เขียน Approve แล้ว · **ตอน 11** เผยแพร่และยังไม่ Approve · เกรย์ฮอลโลว์ **ยังไม่พินาศ** และอีธาน **ยังไม่พบมิติ**. การโจมตีทำลายหมู่บ้าน ผู้รอดชีวิตกระจัดกระจาย อีธานย้อนช่วยคาริน และการค้นพบมิติหลังจากนั้นเป็น CANON/PLANNED; ชะตารายบุคคลทั้งหมด OPEN
 
 ### ดัชนีการเชื่อมโยง
 - [[Characters/Ethan-Wells|อีธาน]] ↔ [[Characters/Karin|คาริน]] ↔ [[Locations/Greyhollow|เกรย์ฮอลโลว์]]
+- [[Locations/Greyhollow|เกรย์ฮอลโลว์]] → [[Story/Future-Arc-Plan|การพินาศในอนาคต (PLANNED)]] → [[Story/Plot-Threads#T07 — การโจมตีและผู้รอดชีวิตจากเกรย์ฮอลโลว์|ปม T07]]
 - [[Locations/Western-Water-Site|แหล่งน้ำตะวันตก]] → [[Locations/Restricted-Western-Zone|เขตแดง]] → [[Story/Plot-Threads#T01 — รอยขุดและสัตว์ปริศนาทางตะวันตก|ปม T01]]
 - [[Locations/Eastern-Warehouse|โกดังตะวันออก]] → [[Story/Plot-Threads#T02 — สิ่งในโกดังตะวันออก|ปม T02]]
 - [[Systems/Power-Index|พลัง]] ↔ [[Bible/Survival-Power-Bible]] ↔ [[Story/New-World-Food-Journal]]
