@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "root",
+  "spellcheck": true
+}
