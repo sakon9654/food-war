@@ -12,6 +12,9 @@
 | อ่านนิยายตามลำดับ | [Chapter Index](Chapters/Volume-01/Chapter-Index.md) |
 | ตรวจเส้นเวลา | [Timeline](Story/Timeline.md) |
 | ดูปมที่ยังไม่เฉลย | [Plot Threads](Story/Plot-Threads.md) |
+| เช็กว่าแต่ละตัวละครรู้ข้อมูลใดแล้ว | [Knowledge Matrix](Story/Knowledge-Matrix.md) |
+| ติดตามวัตถุดิบที่กินได้/ยังไม่รับรอง | [Food Register](Story/Food-Register.md) |
+| ดูโน้ตความต่อเนื่องตอนล่าสุด | [Chapter 11 Notes](Notes/Chapter-11-Continuity.md) |
 | รู้ว่าตัวละครอยู่ในสภาพไหน | [Character Index](Characters/Character-Index.md) |
 | ตรวจสถานที่และเขตเสี่ยง | [Location Index](Locations/Location-Index.md) |
 | ตรวจพลังและข้อจำกัด | [Power Index](Systems/Power-Index.md) |
@@ -35,8 +38,9 @@ food-war/
 ├── Characters/               # รายละเอียดตัวละคร/ความสัมพันธ์
 ├── Locations/                # สถานที่ เขตเสี่ยง เส้นทาง
 ├── Systems/                  # ดัชนีพลัง/กลไก
-├── Story/                    # Timeline, Plot Threads, แผน, สมุดอาหาร
+├── Story/                    # Timeline, Plot Threads, Knowledge Matrix, Food Register, แผน
 ├── Workflow/                 # AI brief, checklist, decision log, series roadmap
+├── Notes/                    # บันทึกต่อเนื่องรายตอนแยกจากต้นฉบับ
 ├── Templates/                # แม่แบบแฟ้มตัวละครและโน้ตตอน
 ├── .obsidian/                # การตั้งค่าทั่วไป ไม่ใส่ workspace ส่วนตัว
 └── .gitignore
