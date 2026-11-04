@@ -1,7 +1,7 @@
 ---
 type: food-register
 scope: volume-01
-through_chapter: 11
+through_chapter: 12
 tags: [food, survival, ingredients]
 ---
 # ทะเบียนวัตถุดิบ การทดลอง และสถานะกินได้
@@ -16,7 +16,8 @@ tags: [food, survival, ingredients]
 | พืชมีฝักเรือนเพาะเหนือ | **UNVERIFIED — DO NOT EAT** | ฝักแก่ให้เมล็ดเริ่มงอก ไม่ยืนยันเป็นอาหารมนุษย์ | [[Chapters/Volume-01/Chapter-10|10]], [[Chapters/Volume-01/Chapter-11|11]] |
 | น้ำต้นทาง/แอ่งตะวันตก | **UNVERIFIED — DO NOT DRINK** | ตัวอย่างต่างกัน, ต้องตรวจสาร/ความเสี่ยงเพิ่ม | [[Chapters/Volume-01/Chapter-08|08]] |
 | น้ำฝนจากหลังคา | **NON-POTABLE UTILITY ONLY** | แยกถังติดป้ายเพื่อใช้กับงานทั่วไป ไม่ใช้เตรียมอาหาร | [[Chapters/Volume-01/Chapter-10|10]] |
-| ผักทดลองตากแห้ง | **PROCESS TESTING** | จากของที่กินได้อยู่แล้ว แต่ต้องแห้งสนิท/ป้องกันเชื้อรา/แมลงก่อนเก็บ | [[Chapters/Volume-01/Chapter-11|11]] |
+| ผักทดลองตากแห้ง | **PROCESS TESTING** | [[Chapters/Volume-01/Chapter-12|12]] เลือกชุดที่แห้งสม่ำเสมอมาคืนตัวและลองทำซุปให้มาร์ธา/คารินชิมได้ แต่ **อายุการเก็บยังไม่ยืนยัน** | [[Chapters/Volume-01/Chapter-11|11]]–[[Chapters/Volume-01/Chapter-12|12]] |
+| รากปริศนาใต้รั้วเหนือ | **UNVERIFIED — DO NOT EAT** | รากสีเหลืองซีดจากแนวร่องน้ำ/ท่อเก่า สัตว์หุ้มเกราะตัวหนึ่งขุดกิน; อีธานรู้สึกว่ามีศักยภาพเป็นวัตถุดิบแต่ไม่รับรองความปลอดภัยหรือชนิด | [[Chapters/Volume-01/Chapter-12|12]] |
 
 ## เมื่อพบสิ่งใหม่
 บันทึก: `source_location` · `first_seen_chapter` · `part_used` · `hazards` · `processing_method` · `tested_by` · `evidence_of_safety` · `status`. ตั้งชื่อสายพันธุ์เฉพาะหลังตัวละครพบและประเมินจริง; ไม่ใช่แค่กลิ่นดีหรือสัตว์ป่ากินแล้วคนจะกินได้.
