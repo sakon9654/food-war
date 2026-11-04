@@ -2,7 +2,7 @@
 type: chapter-notes
 chapter: "[[Chapters/Volume-01/Chapter-11]]"
 status: published
-approved: false
+approved: true
 tags: [continuity, chapter-notes]
 ---
 # บันทึกประกอบตอน 11 (ไม่ใช่เนื้อหานิยาย)
@@ -26,7 +26,7 @@ tags: [continuity, chapter-notes]
 - ห้ามให้ผักตากแห้งพร้อมแจกเสบียงโดยยังไม่ตรวจการเก็บ
 - น้ำตะวันตกและพืชสองชนิดยังไม่รับรอง
 - อีธานยังไม่รู้มิติ; คารินยังไม่บาดเจ็บหนัก
-- ตอน 11 **ยังไม่ได้รับ Approve** ณ เวลาสร้างโน้ตนี้
+- ตอน 11 **ได้รับ Approve แล้ว** ณ เวลาสร้างโน้ตนี้
 
 ## ตอนถัดไปอาจตรวจ
 [[Story/Plot-Threads#T01 — รอยขุดและสัตว์ปริศนาทางตะวันตก|T01]]; [[Story/Plot-Threads#T03 — น้ำและพืชที่ยังไม่รับรอง|T03]]; [[Locations/Greyhollow|รั้วเหนือ]]
