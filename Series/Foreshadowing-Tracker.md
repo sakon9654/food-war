@@ -2,7 +2,7 @@
 type: foreshadowing-tracker
 scope: series
 status: maintained
-through: volume-01-chapter-11
+through: volume-01-chapter-12
 tags: [series, foreshadowing, continuity]
 ---
 # Foreshadowing Tracker
@@ -20,6 +20,9 @@ tags: [series, foreshadowing, continuity]
 | F05 | อีธานกับคารินดูแลกันและไว้ใจกันมากขึ้น | [[Chapters/Volume-01/Chapter-01|01]]–[[Chapters/Volume-01/Chapter-11|11]] | OPEN | เหตุการณ์เปลี่ยนความสัมพันธ์ใน Future Arc Plan ยังเป็น PLANNED |
 | F06 | อีธานมีพลังประเมินทรัพยากร/อาหารภายใต้กฎพลังที่ใหญ่กว่า | [[Chapters/Volume-01/Chapter-01|01]]–[[Chapters/Volume-01/Chapter-11|11]], [[Bible/Survival-Power-Bible]] | OPEN | Provision Dimension เป็น CANON/PLANNED แต่ยังไม่ถูกค้นพบในเรื่อง |
 | F07 | รอยขุด รอยบนรั้ว เศษแข็ง และการเคลื่อนไหวรอบแนวเหนือ/ตะวันตกเพิ่มแรงกดดันต่อหมู่บ้าน | [[Chapters/Volume-01/Chapter-03|03]], [[Chapters/Volume-01/Chapter-08|08]]–[[Chapters/Volume-01/Chapter-11|11]] | OPEN / PLANNED | Payoff ที่อนุมัติคือการโจมตีจนเกรย์ฮอลโลว์พินาศ แต่ชนิด/จำนวน/ลำดับการโจมตียัง OPEN และห้ามให้ตัวละครรู้ล่วงหน้า |
+
+| F08 | ทางน้ำเก่าและโพรงใต้รั้ว สัตว์หุ้มแผ่นแข็งขุดรากใกล้กำแพง เริ่มแผนตรวจทางอพยพ | [[Chapters/Volume-01/Chapter-12|12]] | OPEN | ยังไม่รู้ชนิด/จำนวน/ภัยแท้จริงและความปลอดภัยของเส้นทาง |
+| F09 | อีธานเริ่มคัดสมุดอาหารให้คนอื่นอ่านพร้อมข้อควรระวัง | [[Chapters/Volume-01/Chapter-12|12]] | OPEN | เตรียมพัฒนาเป็นคู่มืออาหารโลกใหม่ แต่ยังไม่ใช่สารานุกรมฉบับสมบูรณ์ |
 
 ## เมื่อตอบแทนเบาะแส
 
