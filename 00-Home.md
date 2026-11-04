@@ -2,8 +2,8 @@
 type: hub
 project: FOOD WAR
 status: active
-latest_published: 11
-approved_through: 10
+latest_published: 12
+approved_through: 11
 tags: [food-war, navigation]
 ---
 # FOOD WAR — ศูนย์กลาง Story Vault
@@ -11,7 +11,7 @@ tags: [food-war, navigation]
 > นิยายเอาชีวิตรอด / ทำอาหาร / ความสัมพันธ์ / โลกหลังหายนะ · อ่าน/เขียนบน Obsidian และใช้ GitHub เป็นแหล่งจริงร่วมกับ ChatGPT
 
 ## เริ่มเขียนหรืออ่าน
-- **[[Chapters/Volume-01/Chapter-Index|สารบัญเล่ม 1]]** → [[Chapters/Volume-01/Chapter-11|อ่านตอนล่าสุด 11]]
+- **[[Chapters/Volume-01/Chapter-Index|สารบัญเล่ม 1]]** → [[Chapters/Volume-01/Chapter-12|อ่านตอนล่าสุด 12]]
 - **[[Story/Timeline|เส้นเวลา]]** → ตรวจว่าเกิดอะไรขึ้นแล้ว
 - **[[Story/Plot-Threads|ทะเบียนปม]]** → ติดตามเบาะแสที่ยังไม่เฉลย
 - **[[Story/Knowledge-Matrix|ใครรู้อะไร]]** → ป้องกันตัวละครรู้สิ่งที่ผู้อ่านเห็นในฉากลับ
@@ -35,7 +35,7 @@ tags: [food-war, navigation]
 | แม่แบบบันทึก | [[Templates/Chapter-Notes-Template]] · [[Templates/Character-Template]] | TEMPLATE |
 
 ## ภาพรวมปัจจุบัน
-**ตอน 1–10** ผู้เขียน Approve แล้ว · **ตอน 11** เผยแพร่และยังไม่ Approve · เกรย์ฮอลโลว์ **ยังไม่พินาศ** และอีธาน **ยังไม่พบมิติ**. การโจมตีทำลายหมู่บ้าน ผู้รอดชีวิตกระจัดกระจาย อีธานย้อนช่วยคาริน และการค้นพบมิติหลังจากนั้นเป็น CANON/PLANNED; ชะตารายบุคคลทั้งหมด OPEN
+**ตอน 1–11** ผู้เขียน Approve แล้ว · **ตอน 12** เผยแพร่และยังไม่ Approve · เกรย์ฮอลโลว์ **ยังไม่พินาศ** และอีธาน **ยังไม่พบมิติ**. การโจมตีทำลายหมู่บ้าน ผู้รอดชีวิตกระจัดกระจาย อีธานย้อนช่วยคาริน และการค้นพบมิติหลังจากนั้นเป็น CANON/PLANNED; ชะตารายบุคคลทั้งหมด OPEN
 
 ### ดัชนีการเชื่อมโยง
 - [[Characters/Ethan-Wells|อีธาน]] ↔ [[Characters/Karin|คาริน]] ↔ [[Locations/Greyhollow|เกรย์ฮอลโลว์]]
