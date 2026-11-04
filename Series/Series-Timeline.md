@@ -2,7 +2,7 @@
 type: series-timeline
 scope: series
 status: fact
-through: volume-01-chapter-11
+through: volume-01-chapter-12
 tags: [series, timeline, continuity]
 ---
 # Series Timeline
@@ -19,7 +19,7 @@ tags: [series, timeline, continuity]
 
 ## เส้นแบ่งสถานะ
 
-- **FACT ถึงปัจจุบัน:** เล่ม 1 ตอน 1–11 เท่านั้น; ตอน 11 เผยแพร่แต่ยังไม่ Approve ตาม [[Chapters/Volume-01/Chapter-Index]].
+- **FACT ถึงปัจจุบัน:** เล่ม 1 ตอน 1–11 เท่านั้น; ตอน 12 เผยแพร่แต่ยังไม่ Approve ตาม [[Chapters/Volume-01/Chapter-Index]].
 - **CANON ที่มีผลต่ออนาคต:** ใช้ [[Bible/World-Bible]] และ [[Bible/Survival-Power-Bible]] แต่กฎที่ตัวละครยังไม่ค้นพบไม่ใช่เหตุการณ์ใน Timeline
 - **PLANNED:** การโจมตีที่ทำให้เกรย์ฮอลโลว์พินาศ การกระจัดกระจายของผู้รอดชีวิต อีธานย้อนช่วยคาริน ความบาดเจ็บ และการค้นพบ Provision Dimension อยู่ใน [[Story/Future-Arc-Plan]]; ทั้งหมดยังไม่เกิดและจึงไม่ใส่เป็น FACT ด้านบน
 - **OPEN:** ผลรอด/เสียชีวิตและตำแหน่งหลังเหตุการณ์ของเดเร็ก บรัม มาร์ธา และคนอื่นทั้งหมด จนมีตอนเผยแพร่ยืนยัน
