@@ -10,7 +10,7 @@ tags: [series, navigation, continuity]
 
 > หน้านี้เชื่อมข้อมูลข้ามเล่ม ส่วนต้นฉบับจริงยังอยู่ใน `Chapters/Volume-XX/`. ทุกระเบียนต้องติดสถานะ **FACT**, **CANON** หรือ **PLANNED** และต้องไม่เลื่อน PLANNED เป็น FACT จนมีตอนเผยแพร่รองรับ
 
-> ณ ตอน 11 เกรย์ฮอลโลว์ยังตั้งอยู่. การพินาศของหมู่บ้านเป็น CANON/PLANNED สำหรับอนาคต และชะตารายบุคคลของผู้รอดชีวิตทั้งหมดเป็น OPEN
+> ณ ตอน 12 เกรย์ฮอลโลว์ยังตั้งอยู่. การพินาศของหมู่บ้านเป็น CANON/PLANNED สำหรับอนาคต และชะตารายบุคคลของผู้รอดชีวิตทั้งหมดเป็น OPEN
 
 ## ตัวติดตามข้ามเล่ม
 
@@ -19,7 +19,7 @@ tags: [series, navigation, continuity]
 | [[Series/Series-Timeline|Series Timeline]] | เหตุการณ์ใดเกิดขึ้นจริงในเล่มใด | FACT ถึงเล่ม 1 ตอน 11 |
 | [[Series/Arc-Tracker|Arc Tracker]] | แต่ละเส้นเรื่องเปิด/ขยับ/ปิดเมื่อใด | FACT + OPEN; แผนแยกเป็น PLANNED |
 | [[Series/Character-Progression|Character Progression]] | ตัวละครเปลี่ยนจากหลักฐานใด | FACT ถึงตอน 11 |
-| [[Series/World-State|World State]] | โลก สถานที่ ทรัพยากร และภัยอยู่ในสถานะใด | Snapshot หลังตอน 11 |
+| [[Series/World-State|World State]] | โลก สถานที่ ทรัพยากร และภัยอยู่ในสถานะใด | Snapshot หลังตอน 12 |
 | [[Series/Foreshadowing-Tracker|Foreshadowing Tracker]] | เบาะแสใดถูกวางและยังไม่เฉลย | OPEN ถึงตอน 11 |
 | [[Series/Volume-Handoffs/Volume-01-Handoff|Volume 01 Handoff]] | สิ่งใดต้องส่งต่อก่อนเปิดเล่มถัดไป | DRAFT — ยังไม่ปิดเล่ม 1 |
 
